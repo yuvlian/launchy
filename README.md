@@ -5,7 +5,7 @@ a simple app launcher
 ## Prebuilt
 1. download this https://github.com/yuvlian/launchy/releases/download/Release/launchy.7z
 2. extract zip
-3. edit json to your apps and stuff (make sure to double backslash)
+3. edit json to your apps and stuff (make sure to double backslash for file path)
 4. run the binary (aka .exe) and voila
    
 btw, the input isn't case sensitive so no need to uppercase it 
